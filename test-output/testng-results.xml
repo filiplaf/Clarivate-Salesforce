@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="87920" started-at="2022-04-07T19:43:53 CEST" finished-at="2022-04-07T19:45:21 CEST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="87920" started-at="2022-04-07T19:43:53 CEST" finished-at="2022-04-07T19:45:21 CEST">
+      <class name="tests.CreateNewANZAccount">
+        <test-method status="PASS" signature="createNewAccount()[pri:0, instance:tests.CreateNewANZAccount@166ddfb7]" name="createNewAccount" duration-ms="74088" started-at="2022-04-07T19:44:07 CEST" finished-at="2022-04-07T19:45:21 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewAccount -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.CreateNewANZAccount@166ddfb7]" name="teardown" is-config="true" duration-ms="1" started-at="2022-04-07T19:45:21 CEST" finished-at="2022-04-07T19:45:21 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.CreateNewANZAccount -->
+      <class name="tests.LoginToPage">
+        <test-method status="PASS" signature="login()[pri:0, instance:tests.LoginToPage@3c8758d1]" name="login" duration-ms="13767" started-at="2022-04-07T19:43:53 CEST" finished-at="2022-04-07T19:44:07 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.LoginToPage@3c8758d1]" name="teardown" is-config="true" duration-ms="1" started-at="2022-04-07T19:45:21 CEST" finished-at="2022-04-07T19:45:21 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.LoginToPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
